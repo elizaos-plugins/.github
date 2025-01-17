@@ -3,6 +3,9 @@ Welcome to the Plugin repo for Elizaos.  This project's goal is to make developi
 
 [Eliza Homepage](https://elizas.com)
 
+# The Registry
+We've created a registry index at  (https://github.com/elizaos-plugins/registry/blob/main/index.json)  This points to the individual plugins that can be installed.
+
 <!--
 
 **Here are some ideas to get you started:**
