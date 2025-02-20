@@ -1,9 +1,9 @@
 # Welcome
-Welcome to the Plugin repo for ElizaOS.  This project's goal is to make developing, deploying, and versioning plugins for ElizaOS as easy as possible.  
+Welcome to the Plugin repo for elizaOS.  This project's goal is to make developing, deploying, and versioning plugins for elizaOS as easy as possible.  
 
-[ElizaOS Plugin Repository](https://elizaos-plugins.github.io/registry/)
+[elizaOS Plugin Repository](https://elizaos-plugins.github.io/registry/)
 
-[ElizaOS Homepage](https://elizaos.ai)
+[elizaOS Homepage](https://elizaos.ai)
 
 # The Registry
 We've created a registry index at  (https://github.com/elizaos-plugins/registry/blob/main/index.json)  This points to the individual plugins that can be installed.
